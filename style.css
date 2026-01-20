@@ -1,0 +1,154 @@
+element.style {
+}
+body {
+    margin: 0;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: arial;
+    background-color: rgb(246, 244, 242);
+}
+* {
+    margin: 0;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+
+#sec1{
+    background-color: rgb(201, 140, 80);
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec1 P{
+    font-size: 1.7em;
+}
+
+#sec2{
+    background-color: rgb(217, 212, 207);
+    text-align: center;
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec2 P{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#sec4 img{width: 500px;
+    border-radius: 7px;}
+#sec4{
+    display: flex;
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec4 div h2{
+    font-size: 2em;
+    margin-bottom: 5px;
+    color: rgb(3, 13, 58);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec4 P{
+    font-size: 1.2em;
+
+}
+
+#sec3{
+    display: flex;
+    background-color: rgb(212, 207, 198);
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;  
+}
+#sec4 {
+    display: flex;
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+#sec5{
+    background-color: rgb(230, 186, 137);
+    text-align: center;
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec5 P{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#sec6{
+    background-color: rgb(217, 212, 207);
+    text-align: center;
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec6 P{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+#sec7 img{width: 500px;
+    border-radius: 7px;}
+#sec7{
+    display: flex;
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec7 div h2{
+    font-size: 2em;
+    margin-bottom: 5px;
+    color: rgb(3, 13, 58);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec7 P{
+    font-size: 1.2em;
+}
+
+#sec7 {
+    display: flex;
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+
+#sec8 table {
+     border-collapse: collapse; /* fusionne les bordures pour un rendu net */
+      width: 100%; } #sec8 th, 
+#sec8 td { border: 1px solid black; /* tracer visible autour de chaque cellule */ 
+    padding: 8px; 
+    text-align: center; } 
+#sec8 thead { 
+    background-color: #f2f2f2; /* couleur d’arrière-plan pour l’en-tête */ }
